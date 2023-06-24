@@ -1,0 +1,45 @@
+@media (prefers-reduced-motion: no-preference) {
+.h1{
+    
+    padding: 5px;
+    border-radius: 3px;
+    margin-top:0;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(97, 207, 250);    
+} 
+}
+
+.Form-field{
+  position: relative;
+  display: inline-block;
+  margin-left: 2%;
+  align-items: inherit;
+  background-color: rgb(97, 207, 250);
+}
+
+.icon{
+  
+  padding: 2% 7%;
+  position: absolute;
+  right: 0;
+}
+
+.user{
+  position: relative;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.p{
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.img{
+  border: 5px solid black;
+  height: min-content;
+  width: min-content;
+  border-radius: 7px ;
+
+}
